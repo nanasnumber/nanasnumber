@@ -1,0 +1,51 @@
+/*
+ * SidePanel.astro
+ * */
+
+.card-person {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.card-person__title {
+  margin: 0;
+}
+
+.card-person figure {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.card-person img {
+  width: 100%;
+}
+
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  font-size: 1.2rem;
+  padding: 0 var(--space-md);
+}
+
+
+.social {
+  display: flex;
+  gap: var(--space-md);
+  padding: 0 var(--space-md);
+}
+
+.social svg {
+  fill: var(--color-00);
+  width: 100%;
+  max-width: 25px;
+}
+

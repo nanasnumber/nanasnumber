@@ -38,6 +38,11 @@ li {
   line-height: 1.5;
 }
 
+main li {
+  list-style: disc;
+  margin-left: var(--space-lg);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
@@ -63,6 +68,15 @@ strong {
   font-weight: bold;
 }
 
+hr {
+    margin: var(--space-lg) 0;
+    border: 1px solid var(--color-03);
+}
+
+main hr {
+    margin: var(--space-lg) 0;
+    border: 1px solid var(--color-02);
+}
 
 .container {
   width: 100%;

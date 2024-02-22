@@ -1,26 +1,41 @@
 ---
----
-<style>
-  nav {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-md);
+import '../styles/side-panel.css';
+import github from '../icons/github.svg?raw';
+import mastodon from '../icons/mastodon.svg?raw';
+import email from '../icons/email.svg?raw';
 
-  }
-</style>
+console.log(github);
+---
 
 <div class="side-panel">
-  <div>
-
-    <h2>
-    Shawn Yisiou Wu
+  <div class="card-person">
+    <figure>
+      <img src="/avatar.jpg" alt="">
+    </figure>
+    <h2 class="card-person__title">
+      Shawn Yisiou Wu
     </h2>
   </div>
-  <nav>
+  <hr>
+  <nav class="main-nav">
     <a href="/profile">Profile</a>
     <a href="/projects">Projects</a>
     <a href="/blog">Blog</a>
     <a href="/cv">CV</a>
+  </nav>
+  <hr>
+  <nav class="social">
+    <a href="https://github.com/nanasnumber" target="_blank">
+      <Fragment set:html={github} />
+    </a>
+
+    <a href="https://mastodon.social/@nanasnumber" target="_blank">
+      <Fragment set:html={mastodon} />
+    </a>
+
+    <a href="mailto:shawnyisiouwu@gmail.com" target="_blank">
+      <Fragment set:html={email} />
+    </a>
   </nav>
 </div>
 

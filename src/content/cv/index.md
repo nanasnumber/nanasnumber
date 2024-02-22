@@ -9,7 +9,7 @@ shawnyisiouwu@gmail.com (preferred)
 +1 (450) 275-2080
 
 # Shawn Yisiou Wu
-**Front End Developer**
+**Software Developer**
 
 Agile, objective-driven, highly adaptive professional with 8+ years of experience in web development across various industries, including e-commerce, real estate, industrial, logistics, food and entertainment. Experienced developer in creating suitable solutions for business problems with varieties of technology stacks, the area includes from early-stage MVP to legacy product maintenance.
 
@@ -18,6 +18,8 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 - Back End and General: Go, Node, PHP, Python, Ruby
 - Database: MySQL, PostgreSQL, MongoDB
 - Scripting / Automation: Bash, Go
+
+---
 
 ## Relevant Experiences
 
@@ -46,6 +48,8 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 - Develop an internal pattern library that can be shared across different teams and projects.
 - Improving cross-browser/cross-device compatibility based on user data.
 - Monitor and improve front end rendering performance.
+
+---
 
 ### Career Transition
 *(Canada 2013 ~ 2014) Ref: Career Transition <sup>(1)</sup>*
@@ -79,6 +83,8 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 - On location audio equipment installation.
 - Stage audio system design
 
+---
+
 ## Education
 ### Chang Jung University
 - Mass Communication (B.A.Com) (2005 ~ 2008)
@@ -86,10 +92,14 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 ### Cheng Shiu University
 - Electrical Engineering (A.E.E.T) (2001 ~ 2005)
 
+---
+
 ## Languages
 - English
 - Mandarin
 - Taiwanese
+
+---
 
 ## Footnote
 *<sup>(1)</sup> Career Transition*

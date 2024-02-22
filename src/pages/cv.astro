@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+const allBlogPosts = await getCollection('blog');
+const cv = await getEntry('cv', 'index');
+const { Content } = await cv.render();
+console.log(cv);
+---
+
+<Base title="C.V.">
+  {<Content />}
+</Base>
+
+

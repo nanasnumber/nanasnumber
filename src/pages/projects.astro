@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+const allBlogPosts = await getCollection('blog');
+const projects = await getEntry('projects', 'index');
+const { Content } = await projects.render();
+---
+
+<Base title="Projects">
+  {<Content />}
+</Base>
+
+

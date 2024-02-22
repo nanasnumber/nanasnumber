@@ -1,0 +1,92 @@
+:root {
+  --space-sm: .5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+
+  --color-00: #ffffff;
+  --color-01: #121212;
+  --color-02: #2D2934;
+  --color-03: #444158;
+  --color-04: #00d48a;
+
+}
+
+html, body {
+  font-family: "Roboto", sans-serif;
+}
+
+
+body {
+  display: grid;
+  grid-template-columns: 300px auto;
+  height: 100vh;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: underline;
+  color: var(--color-00);
+}
+
+p {
+  margin-bottom: var(--space-md);
+  line-height: 1.5;
+}
+
+li {
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+
+.container {
+  width: 100%;
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.side-panel {
+  height: 100vh;
+  box-sizing: border-box;
+  background: var(--color-02);
+  color: var(--color-00);
+  padding: var(--space-md);
+
+  a {
+    color: var(--color-00);
+  }
+}
+
+.content {
+  height: 100vh;
+  overflow: auto;
+  box-sizing: border-box;
+  padding: var(--space-md);
+  background: var(--color-03);
+  color: var(--color-00);
+}

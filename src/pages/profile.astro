@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+const allBlogPosts = await getCollection('blog');
+const profile = await getEntry('profile', 'index');
+const { Content } = await profile.render();
+---
+
+<Base title="Profile">
+  {<Content />}
+</Base>
+
+

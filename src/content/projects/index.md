@@ -22,7 +22,7 @@ F.R.S.H (Fresh Required! Serve Hot!) stands as a live reload server tailored for
 
 [https://github.com/nanasnumber/gidx](https://github.com/nanasnumber/gidx)
 
-**gidx** is a cli tool to query Google search side index result.
+**gidx** is a cli tool to query Google search site index result.
 
 
 ### tcap

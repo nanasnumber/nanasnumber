@@ -4,24 +4,70 @@ title: "C.V."
 
 Piedmont, QC, Canada
 
-shawnyisiouwu@gmail.com (preferred)
+[shawnyisiouwu@gmail.com](mailto:shawnyisiouwu@gmail.com)
 
 +1 (450) 275-2080
 
 # Shawn Yisiou Wu
-**Software Developer**
+### Software Developer
 
-Agile, objective-driven, highly adaptive professional with 8+ years of experience in web development across various industries, including e-commerce, real estate, industrial, logistics, food and entertainment. Experienced developer in creating suitable solutions for business problems with varieties of technology stacks, the area includes from early-stage MVP to legacy product maintenance.
-
-## Proficient Tech Stacks
-- Front End: HTML, CSS, JavaScript
-- Back End and General: Go, Node, PHP, Python, Ruby
-- Database: MySQL, PostgreSQL, MongoDB
-- Scripting / Automation: Bash, Go
+Results-driven Software Developer with a strong foundation in front-end development, experienced in React, Vue.js, and Angular, and a touch of expertise in Go for a well-rounded skill set. Proficient in deploying and optimizing applications, ensuring responsive and engaging user interfaces without being tied to specific frameworks. Skilled in front-end fundamentals and versed in DevOps practices, contributing to efficient deployment and system management. Passionate about staying current with evolving technologies, seeking a role where solid front-end principles and DevOps experience can contribute to innovative and impactful projects, complemented by a strong understanding of backend technologies.
 
 ---
 
-## Relevant Experiences
+## Technologies Experienced
+
+- Server Side: Go, Node.js, TypeScript, PHP, Python, Lua, Ruby
+- Client Side: HTML, CSS, JavaScript
+- Frameworks: Astro, Vue.js, Nuxt.js, React.js, Next.js, Laravel, Flask, Django, Sinatra, Ruby on Rails
+- SSG(Static Site Generator): Hugo, Astro
+- CMS: WordPress, Drupal, Decap CMS(formerly Netlify CMS)
+- Database: MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS)
+- State Management: Vuex, Redux, XState
+- Serverless: Go, Node.js
+- DevOps: Bash, Go, Docker, Ansible
+- Server Environment: Debian Linux, Alpine Linux
+- SCM: Git, SVN
+- OS: Linux, macOS, FreeBSD, Windows
+
+## Relevant Technologies
+
+HTML, CSS, JavaScript, React, Angular, Vue.js, Responsive Design, UI/UX Design, Web Accessibility, Cross-Browser Compatibility, Node.js, Python, Java, Ruby, Go, Express.js, Django, Flask, RESTful API, GraphQL, MySQL, PostgreSQL, MongoDB, SQL, NoSQL, Database Design, Query Optimization, Database Administration, Docker, Continuous Integration (CI), Continuous Deployment (CD), Ansible, GitLab CI/CD, Infrastructure as Code (IaC), Monitoring, Logging, Automation, Linux System Administration, Shell Scripting (Bash), Package Management (apt, apk, pkg), File System Permissions, Networking, Security, Process Management, Cron Jobs, Linux Server Deployment, Linux Command-Line Tools, Vim, tmux
+
+---
+
+## Projects
+
+### frsh <small> [https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh) </small>
+
+**frsh** is a minimal livereload development sever written in Go. The intent of this project is to take adventage of Go's portable single binary for spin up a local development server as needed. It use Go to interact with the file system, and communicate with browser via WebSockets API.
+
+### piq <small> [https://github.com/enlezlab/piq](https://github.com/enlezlab/piq) </small>
+
+**piq** is a no build step front end UI library that wrapped around **Web Components**.
+
+### gidx <small> [https://github.com/nanasnumber/gidx](https://github.com/nanasnumber/gidx) </small>
+
+**gidx** is a cli tool to query Google search site index result.
+
+
+### tcap <small> [https://github.com/nanasnumber/tcap](https://github.com/nanasnumber/tcap) </small>
+
+**tcap** is a cli tool to transform string to title case.
+
+
+### worklog <small> [https://github.com/nanasnumber/worklog](https://github.com/nanasnumber/worklog) </small>
+
+**worklog** is a command-line interface (CLI) tool designed to streamline daily documentation, time tracking, and note-taking. With the ability to open Vim with a timestamp pre-filled Markdown file, **worklog** simplifies the process of recording day-to-day activities. Additionally, its command-line search functionality allows users to easily retrieve and access relevant information.
+
+
+### zk <small> [https://github.com/nanasnumber/zk](https://github.com/nanasnumber/zk) </small>
+
+The **zk** project is an innovative tool designed to streamline the process of note-taking using the zettelkasten method. By integrating seamlessly with Vim, this tool allows users to effortlessly open a Markdown file with a pre-filled title, enhancing the efficiency of creating and organizing zettelkasten notes. The primary focus of the project is to provide a user-friendly and frictionless experience for individuals adopting the zettelkasten method, emphasizing simplicity and productivity in the note-taking workflow. With ZettleVim, users can elevate their zettelkasten practice by combining the power of Vim with a tailored approach to markdown file creation for more effective and organized note-taking.
+
+---
+
+## Relevant Work Experiences
 
 ### bolēan
 *Front End Developer (Remote - Canada Feb. 2018 ~ Feb. 2024)*
@@ -32,7 +78,7 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 - Automate deployment process, CI/CD integration, and shorten product iteration cycle.
 
 ### enlezLab
-*Software Developer / Partner (Remote - Canada 2016 ~ present)*
+*Software Developer / Owner (Remote - Canada 2016 ~ present)*
 
 - Utilize analytic data to work with the content team, and improve mobile retention rate by 40%. (bazaarofthoughts.com)
 - Establish an initial pattern/component library, and shorten feature iteration time. (bazaarofthoughts.com)
@@ -104,13 +150,6 @@ Agile, objective-driven, highly adaptive professional with 8+ years of experienc
 ## Footnote
 *<sup>(1)</sup> Career Transition*
 
-In my younger years, upon graduation from Chang Jung University in Taiwan, my primary working experiences were focused on audio production as I was a music enthusiast and was offered an opportunity in the field. I occasionally made use of my electrical engineering background to write up a scripts to process large batches of audio for the deliverable files, formats, etc.
-
-I left Taiwan in 2012 after my wife gave birth to our son and we had made a mutual decision to raise our children in her home country, Quebec, Canada.
-
-There was a period of time during the transition from Taiwan to Canada where I had to wait for my immigration paperwork, and so became a stay-at-home dad, taking care of my child while my wife returned to work.
-
-Not only did this period of time allow me to reflect upon the direction that my career was going to take but also gave me a wonderful opportunity to study and explore my programming knowledge.
-
-Because of my electrical engineering background, acquiring and understanding the knowledge came quickly as all the fundamental logics are transferable. Despite the fact that I did not major in CS during university, my strong fundamental logic, ability to ask the right questions, and resourcefulness allowed me to begin the journey in freelance web development projects, eventually landing fulltime work in the field.
-
+<small>
+In my early career, following my graduation from Chang Jung University in Taiwan, my professional focus centered on audio production, driven by my passion for music. Leveraging my background in electrical engineering, I adeptly developed scripts to efficiently process large volumes of audio, ensuring the delivery of high-quality files in various formats. In 2012, a significant life event led me to relocate to Quebec, Canada, with my family, prompting a transitional period during which I assumed the role of a stay-at-home dad while awaiting immigration paperwork. This interval provided me with the invaluable opportunity to reflect on my career trajectory and delve into the realm of programming. Given my foundation in electrical engineering, acquiring and comprehending programming knowledge became a swift process, as the fundamental logics were readily transferable. My robust logical reasoning, adept question-asking ability, and resourcefulness paved the way for my initiation into freelance web development projects. Subsequently, my proficiency and dedication culminated in securing full-time employment in the field, marking a pivotal step in my professional journey.
+</small>

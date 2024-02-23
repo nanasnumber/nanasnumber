@@ -30,7 +30,7 @@ Results-driven Software Developer with a strong foundation in front end software
 - **Server Environment:** Debian Linux, Fedora, Alpine Linux, CentOS
 - **SCM:** Git, SVN
 - **OS:** Linux, macOS, FreeBSD, Windows
-- **API:** Stripe, PayPal, SendGrid, MailChimp, Gumroad, SoundCloud, Bandcamp, YouTube, Google
+- **API:** Stripe, PayPal, SendGrid, MailChimp, Gumroad, Cloudinary, SoundCloud, Bandcamp, YouTube, Google
 
 ### Relevant Technologies
 <small>
@@ -96,7 +96,7 @@ Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, As
 - Integrated headless e-commerce functionality and payment gateways, including Stripe, Gumroad, and PayPal, for digital publishing.
 - Utilized analytic data to collaborate with the content team of a digital publication brand, focusing on improving the mobile site retention rate.
 - Implemented design patterns specific to the publication brand, resulting in improved iteration time for the placement of display ads.
-
+- Designed and implemented a Document Management System (DMS) tailored for clients within the personal development coaching domain. This specialized solution played a pivotal role, providing coaches with the capability to efficiently retrieve relevant PDF documents during live video sessions. The DMS significantly enhanced the coaching experience by enabling quick and targeted access to relevant materials, ensuring a seamless and productive interaction with session attendees.
 
 ### Valnet
 *Front-End Developer (Montreal, Canada 2014 ~ 2017)*

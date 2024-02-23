@@ -2,6 +2,7 @@
 import '../styles/side-panel.css';
 import github from '../icons/github.svg?raw';
 import mastodon from '../icons/mastodon.svg?raw';
+import x from '../icons/x.svg?raw';
 import email from '../icons/email.svg?raw';
 
 console.log(github);
@@ -31,6 +32,10 @@ console.log(github);
 
     <a href="https://mastodon.social/@nanasnumber" target="_blank">
       <Fragment set:html={mastodon} />
+    </a>
+
+    <a href="https://twitter.com/nanasnumber" target="_blank">
+      <Fragment set:html={x} />
     </a>
 
     <a href="mailto:shawnyisiouwu@gmail.com" target="_blank">

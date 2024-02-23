@@ -82,6 +82,12 @@ hr {
     border: 1px solid var(--color-03);
 }
 
+code {
+  background: var(--color-02);
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
 main hr {
     margin: var(--space-lg) 0;
     border: 1px solid var(--color-02);

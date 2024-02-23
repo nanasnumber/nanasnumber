@@ -34,39 +34,40 @@ Results-driven Software Developer with a strong foundation in front end software
 
 ### Relevant Technologies
 <small>
-Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, Astro, Vue.js, Nuxt.js, React.js, Next.js, Laravel, Flask, Django, Sinatra, Ruby on Rails, Hugo, Astro, WordPress, Drupal, Decap CMS(formerly Netlify CMS), Shopify, Lightspeed, Megento, SAP Hybris, MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS), Vuex, Redux, XState, Bash, Go, Docker, Ansible, Debian Linux, Fedora, Alpine Linux, CentOS, Git, SVN, Linux, macOS, FreeBSD, Windows, Responsive Design, UI/UX Design, Web Accessibility, Cross-Browser Compatibility, NoSQL, Database Design, Database Administration, Docker, Continuous Integration (CI), Continuous Deployment (CD), Ansible, GitLab CI/CD, Infrastructure as Code (IaC), Automation, Linux System Administration, Shell Scripting (Bash), Package Management (apt, dnf, apk, pkg), File System Permissions, Networking, DevOps, Security, DevSecOps, Cron Jobs, Linux Server Deployment, Linux Command-Line Tools, GNU Coreutils, Vim, tmux, ffmpeg, ImageMagick, systemd, x11, Samba, rsync
+Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, Astro, Vue.js, Nuxt.js, React.js, Next.js, Laravel, Flask, Django, Sinatra, Ruby on Rails, Hugo, Astro, WordPress, Drupal, Decap CMS(formerly Netlify CMS), Shopify, Lightspeed, Megento, SAP Hybris, MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS), Vuex, Redux, XState, Bash, Go, Docker, Ansible, Debian Linux, Fedora, Alpine Linux, CentOS, Git, SVN, Linux, macOS, FreeBSD, Windows, Responsive Design, UI/UX Design, Web Accessibility, Cross-Browser Compatibility, NoSQL, Database Design, Database Administration, Docker, Continuous Integration (CI), Continuous Deployment (CD), Ansible, GitLab CI/CD, Infrastructure as Code (IaC), Automation, Linux System Administration, Shell Scripting (Bash), Package Management (apt, dnf, apk, pkg), File System Permissions, Networking, DevOps, Security, DevSecOps, Cron Jobs, Linux Server Deployment, Linux Command-Line Tools, GNU Coreutils, Vim, tmux, ffmpeg, ImageMagick, systemd, x11, Samba, rsync, laTeX
 </small>
 
 ---
 
 ## Projects
 
-### frsh <small> [https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh) </small>
-
-`frsh` is a minimal livereload development sever written in Go. The intent of this project is to take adventage of Go's portable single binary for spin up a local development server as needed. It use Go to interact with the file system, and communicate with browser via WebSockets API.
-
 ### piq <small> [https://github.com/enlezlab/piq](https://github.com/enlezlab/piq) </small>
 
-**piq** is a no build step front end UI library that wrapped around **Web Components**.
+`piq` is a no build step front end UI library that wrapped around **Web Components**.
+
+### frsh <small> [https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh) </small>
+
+`frsh` is a minimal livereload development sever written in Go. The intent of this project is to take adventage of Go's portable single binary to initiate a simple local development server as needed. It use Go to interact with the file system, and communicate with browser via WebSockets API. It observe the file(s) change, when file change occured, it will ping the browser via WebSockets, then trigger a browser reload.
+
 
 ### gidx <small> [https://github.com/nanasnumber/gidx](https://github.com/nanasnumber/gidx) </small>
 
-**gidx** is a cli tool to query Google search site index result.
+`gidx` is a cli tool to query Google search site index result.
 
 
 ### tcap <small> [https://github.com/nanasnumber/tcap](https://github.com/nanasnumber/tcap) </small>
 
-**tcap** is a cli tool to transform string to title case.
-
-
-### worklog <small> [https://github.com/nanasnumber/worklog](https://github.com/nanasnumber/worklog) </small>
-
-**worklog** is a command-line interface (CLI) tool designed to streamline daily documentation, time tracking, and note-taking. With the ability to open Vim with a timestamp pre-filled Markdown file, **worklog** simplifies the process of recording day-to-day activities. Additionally, its command-line search functionality allows users to easily retrieve and access relevant information.
+`tcap` is a cli tool to transform string(the supplied argument) to title case. It was initially written to be use within bash script that used to format markdown and latex for print, book publishing.
 
 
 ### zk <small> [https://github.com/nanasnumber/zk](https://github.com/nanasnumber/zk) </small>
 
-The **zk** project is an innovative tool designed to streamline the process of note-taking using the zettelkasten method. By integrating seamlessly with Vim, this tool allows users to effortlessly open a Markdown file with a pre-filled title, enhancing the efficiency of creating and organizing zettelkasten notes. The primary focus of the project is to provide a user-friendly and frictionless experience for individuals adopting the zettelkasten method, emphasizing simplicity and productivity in the note-taking workflow. With ZettleVim, users can elevate their zettelkasten practice by combining the power of Vim with a tailored approach to markdown file creation for more effective and organized note-taking.
+`zk` is my own implementation of zettelkasten note taking cli tool. The `zk` command will open a new markdown file in vim with pre fill title when argument is supplied.
+
+
+### worklog <small> [https://github.com/nanasnumber/worklog](https://github.com/nanasnumber/worklog) </small>
+
+`worklog` is based on the codebase from `zk`, same note taking concept, but focus on date and time centric logging, it comes in handy when working within command line interface.
 
 ---
 

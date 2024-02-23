@@ -17,20 +17,20 @@ Results-driven Software Developer with a strong foundation in front end software
 
 ## Technologies Experienced
 
-- Server Side/General: Node.js, TypeScript, Go, PHP, Python, Lua, Ruby, Java
-- Client Side: HTML, CSS (SCSS/SASS, LESS), JavaScript
-- Framework: Astro, Vue.js, Nuxt.js, React.js, Next.js, Angular, Laravel, Flask, Django, Sinatra, Ruby on Rails
-- SSG(Static Site Generator): Hugo, Astro
-- CMS: WordPress, Drupal, Decap CMS(formerly Netlify CMS)
-- eCommerce: Shopify, Lightspeed, Megento, SAP Hybris
-- Database: MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS)
-- State Management: Vuex, Redux, XState
-- Serverless: Go, Node.js
-- DevOps: Bash, Go, Docker, Ansible
-- Server Environment: Debian Linux, Fedora, Alpine Linux, CentOS
-- SCM: Git, SVN
-- OS: Linux, macOS, FreeBSD, Windows
-- API: Stripe, PayPal, SendGrid, MailChimp, Gumroad, SoundCloud, Bandcamp, YouTube, Google
+- **Server Side/General:** Node.js, TypeScript, Go, PHP, Python, Lua, Ruby, Java
+- **Client Side:** HTML, CSS (SCSS/SASS, LESS), JavaScript
+- **Framework:** Astro, Vue.js, Nuxt.js, React.js, Next.js, Angular, Laravel, Flask, Django, Sinatra, Ruby on Rails
+- **SSG(Static Site Generator):** Hugo, Astro
+- **CMS:** WordPress, Drupal, Decap CMS(formerly Netlify CMS)
+- **eCommerce:** Shopify, Lightspeed, Megento, SAP Hybris
+- **Database:** MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS)
+- **State Management:** Vuex, Redux, XState
+- **Serverless:** Go, Node.js
+- **DevOps:** Bash, Go, Docker, Ansible
+- **Server Environment:** Debian Linux, Fedora, Alpine Linux, CentOS
+- **SCM:** Git, SVN
+- **OS:** Linux, macOS, FreeBSD, Windows
+- **API:** Stripe, PayPal, SendGrid, MailChimp, Gumroad, SoundCloud, Bandcamp, YouTube, Google
 
 ### Relevant Technologies
 <small>
@@ -76,24 +76,27 @@ Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, As
 ### bolēan
 *Front End Developer / DevOps (Remote - Canada Feb. 2018 ~ Feb. 2024)*
 
-- Initiate documentation culture within the developer team.
-- Establish common standard wthin developer team in terms of conventions and integration process.
-- Maintain developer documentation across various scope in both legacy projects and green field projects.
-- Develop internal tools and libraries to overcome integration overhead around repeated patterns and common use cases.
-- Plan and migrate client legacy projects hosting, ranging from CMS such as WordPress, Drupal to framework such as Laravel, Sinatra and Ruby on Rails.
-- Responsible for front end optimization and technical SEO optimization such as Google PageSpeed.
-- Maintain hosting upkeep across 70 plus sites ranging from static site, ecommerce and web application.
-- Build and maintain deployment pipeline, integrate CI/CD(Continuous Integration, Continuous Deployment) within platform such as Netlify, GitLab, GitHub and Bitbucket.
+- Initiated documentation culture within the developer team.
+- Established common standards within the developer team in terms of conventions and integration processes.
+- Maintained developer documentation across various scopes in both legacy projects and greenfield projects.
+- Developed internal tools and libraries to overcome integration overhead around repeated patterns and common use cases.
+- Planned and migrated client legacy projects hosting, ranging from CMS such as WordPress and Drupal to frameworks such as Laravel, Sinatra, and Ruby on Rails.
+- Responsible for front-end optimization and technical SEO optimization, including Google PageSpeed.
+- Maintained hosting upkeep across 70 plus sites, ranging from static sites and e-commerce to web applications.
+- Built and maintained a deployment pipeline, integrating CI/CD (Continuous Integration, Continuous Deployment) within platforms such as Netlify, GitLab, GitHub, and Bitbucket.
+
 
 
 ### enlezLab
 *Software Developer / Owner (Remote - Canada 2016 ~ present)*
 
-- Utilize analytic data to work with the content team, and improve mobile retention rate by 40%. (bazaarofthoughts.com)
-- Establish an initial pattern/component library, and shorten feature iteration time.
-- Developing design patterns for the publication brand.
-- Develop an automation tool for KDP publishing, and shorten product to market time by 30%.
-- Headless e-commerce integration for digital publishing.
+- Developed automation tools for traditional print book publishing and KDP publishing.
+- Integrated Ansible into the book publishing process for tasks such as versioning and source format validation.
+- Designed and implemented an application for managing ISBN records, catering to clients in the book publishing domain.
+- Integrated headless e-commerce functionality and payment gateways, including Stripe, Gumroad, and PayPal, for digital publishing.
+- Utilized analytic data to collaborate with the content team of a digital publication brand, focusing on improving the mobile site retention rate.
+- Implemented design patterns specific to the publication brand, resulting in improved iteration time for the placement of display ads.
+
 
 ### Valnet
 *Front-End Developer (Montreal, Canada 2014 ~ 2017)*

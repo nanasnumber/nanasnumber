@@ -11,28 +11,31 @@ Piedmont, QC, Canada
 # Shawn Yisiou Wu
 ### Software Developer
 
-Results-driven Software Developer with a strong foundation in front-end development, experienced in React, Vue.js, and Angular, and a touch of expertise in Go for a well-rounded skill set. Proficient in deploying and optimizing applications, ensuring responsive and engaging user interfaces without being tied to specific frameworks. Skilled in front-end fundamentals and versed in DevOps practices, contributing to efficient deployment and system management. Passionate about staying current with evolving technologies, seeking a role where solid front-end principles and DevOps experience can contribute to innovative and impactful projects, complemented by a strong understanding of backend technologies.
+Results-driven Software Developer with a strong foundation in front end software development, experienced in various front end frameworks as well as proficient backend experiences in various languages. Proficient in deploying and optimizing applications as well as networking and DevOps practices. Passionate about staying current with evolving technologies, seeking a role where solid front end principles, backend knowledge and DevOps experience can contribute to innovative and impactful projects.
 
 ---
 
 ## Technologies Experienced
 
-- Server Side: Go, Node.js, TypeScript, PHP, Python, Lua, Ruby
-- Client Side: HTML, CSS, JavaScript
-- Frameworks: Astro, Vue.js, Nuxt.js, React.js, Next.js, Laravel, Flask, Django, Sinatra, Ruby on Rails
+- Server Side/General: Node.js, TypeScript, Go, PHP, Python, Lua, Ruby, Java
+- Client Side: HTML, CSS (SCSS/SASS, LESS), JavaScript
+- Framework: Astro, Vue.js, Nuxt.js, React.js, Next.js, Angular, Laravel, Flask, Django, Sinatra, Ruby on Rails
 - SSG(Static Site Generator): Hugo, Astro
 - CMS: WordPress, Drupal, Decap CMS(formerly Netlify CMS)
+- eCommerce: Shopify, Lightspeed, Megento, SAP Hybris
 - Database: MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS)
 - State Management: Vuex, Redux, XState
 - Serverless: Go, Node.js
 - DevOps: Bash, Go, Docker, Ansible
-- Server Environment: Debian Linux, Alpine Linux
+- Server Environment: Debian Linux, Fedora, Alpine Linux, CentOS
 - SCM: Git, SVN
 - OS: Linux, macOS, FreeBSD, Windows
+- API: Stripe, PayPal, SendGrid, MailChimp, Gumroad, SoundCloud, Bandcamp, YouTube, Google
 
-## Relevant Technologies
-
-HTML, CSS, JavaScript, React, Angular, Vue.js, Responsive Design, UI/UX Design, Web Accessibility, Cross-Browser Compatibility, Node.js, Python, Java, Ruby, Go, Express.js, Django, Flask, RESTful API, GraphQL, MySQL, PostgreSQL, MongoDB, SQL, NoSQL, Database Design, Query Optimization, Database Administration, Docker, Continuous Integration (CI), Continuous Deployment (CD), Ansible, GitLab CI/CD, Infrastructure as Code (IaC), Monitoring, Logging, Automation, Linux System Administration, Shell Scripting (Bash), Package Management (apt, apk, pkg), File System Permissions, Networking, Security, Process Management, Cron Jobs, Linux Server Deployment, Linux Command-Line Tools, Vim, tmux
+### Relevant Technologies
+<small>
+Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, Astro, Vue.js, Nuxt.js, React.js, Next.js, Laravel, Flask, Django, Sinatra, Ruby on Rails, Hugo, Astro, WordPress, Drupal, Decap CMS(formerly Netlify CMS), Shopify, Lightspeed, Megento, SAP Hybris, MySQL, PostgreSQL, SQLite, MongoDB, PlanetScale(DBaaS), Vuex, Redux, XState, Bash, Go, Docker, Ansible, Debian Linux, Fedora, Alpine Linux, CentOS, Git, SVN, Linux, macOS, FreeBSD, Windows, Responsive Design, UI/UX Design, Web Accessibility, Cross-Browser Compatibility, NoSQL, Database Design, Database Administration, Docker, Continuous Integration (CI), Continuous Deployment (CD), Ansible, GitLab CI/CD, Infrastructure as Code (IaC), Automation, Linux System Administration, Shell Scripting (Bash), Package Management (apt, dnf, apk, pkg), File System Permissions, Networking, DevOps, Security, DevSecOps, Cron Jobs, Linux Server Deployment, Linux Command-Line Tools, GNU Coreutils, Vim, tmux, ffmpeg, ImageMagick, systemd, x11, Samba, rsync
+</small>
 
 ---
 
@@ -40,7 +43,7 @@ HTML, CSS, JavaScript, React, Angular, Vue.js, Responsive Design, UI/UX Design, 
 
 ### frsh <small> [https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh) </small>
 
-**frsh** is a minimal livereload development sever written in Go. The intent of this project is to take adventage of Go's portable single binary for spin up a local development server as needed. It use Go to interact with the file system, and communicate with browser via WebSockets API.
+`frsh` is a minimal livereload development sever written in Go. The intent of this project is to take adventage of Go's portable single binary for spin up a local development server as needed. It use Go to interact with the file system, and communicate with browser via WebSockets API.
 
 ### piq <small> [https://github.com/enlezlab/piq](https://github.com/enlezlab/piq) </small>
 

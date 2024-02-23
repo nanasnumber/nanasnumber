@@ -15,7 +15,7 @@ Results-driven Software Developer with a strong foundation in front end software
 
 ---
 
-## Technologies Experienced
+## Technology Experiences
 
 - **Server Side/General:** Node.js, TypeScript, Go, PHP, Python, Lua, Ruby, Java
 - **Client Side:** HTML, CSS (SCSS/SASS, LESS), JavaScript
@@ -112,7 +112,7 @@ Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, As
 ---
 
 ### Career Transition
-*(Canada 2013 ~ 2014) Ref: Career Transition <sup>(1)</sup>*
+*(Canada 2013 ~ 2014) Ref:[Career Transition <sup>(1)</sup>](#footnote)*
 
 ### Super Sound Studio
 *Post Production Recording Engineer / Sound Designer (Taipei, Taiwan 2010 ~ 2011)*
@@ -145,19 +145,20 @@ Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, As
 
 ---
 
-## Education
-### Chang Jung University
-- Mass Communication (B.A.Com) (2005 ~ 2008)
-
-### Cheng Shiu University
-- Electrical Engineering (A.E.E.T) (2001 ~ 2005)
-
----
-
 ## Languages
 - English
 - Mandarin
 - Taiwanese
+- French (In Progress)
+
+---
+
+## Education
+### Chang Jung University
+- Bachelor of Arts in Mass Communication (B.A.Com), 2005 - 2008
+
+### Cheng Shiu University
+- Associate in Electrical Engineering Technology (A.E.E.T), 2001 - 2005
 
 ---
 

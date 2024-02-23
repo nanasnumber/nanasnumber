@@ -4,61 +4,32 @@ title: "Projects"
 
 # Projects
 
-## Tools and Library
+### piq <small> [https://github.com/enlezlab/piq](https://github.com/enlezlab/piq) </small>
 
-### frsh
-
-[https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh)
-
-**frsh** is a minimal livereload sever.
-F.R.S.H (Fresh Required! Serve Hot!) stands as a live reload server tailored for local development of static HTML projects. Utilizing Go and JavaScript with WebSocket technology, it ensures instant code updates without manual refreshes, promoting a streamlined coding experience. A key distinction lies in its single binary architecture, eliminating the dependency challenges often associated with npm, and offering a lightweight setup. F.R.S.H prioritizes simplicity and efficiency, transforming static HTML folders into dynamic local development servers without delving into dependency complexities, ensuring a hassle-free coding environment.
-
----
-
-### piq
-
-[https://github.com/enlezlab/piq](https://github.com/enlezlab/piq)
-
-**piq** is a no build step front end UI library that wrapped around **Web Components**.
-
----
-
-### gidx
-
-[https://github.com/nanasnumber/gidx](https://github.com/nanasnumber/gidx)
-
-**gidx** is a cli tool to query Google search site index result.
-
----
-
-### tcap
-
-[https://github.com/nanasnumber/tcap](https://github.com/nanasnumber/tcap)
-
-**tcap** is a cli tool to transform string to title case.
-
----
-
-### worklog
-
-[https://github.com/nanasnumber/worklog](https://github.com/nanasnumber/worklog)
-
-**worklog** is a command-line interface (CLI) tool designed to streamline daily documentation, time tracking, and note-taking. With the ability to open Vim with a timestamp pre-filled Markdown file, **worklog** simplifies the process of recording day-to-day activities. Additionally, its command-line search functionality allows users to easily retrieve and access relevant information.
-
----
-
-### zk
-
-[https://github.com/nanasnumber/zk](https://github.com/nanasnumber/zk)
-
-The **zk** project is an innovative tool designed to streamline the process of note-taking using the zettelkasten method. By integrating seamlessly with Vim, this tool allows users to effortlessly open a Markdown file with a pre-filled title, enhancing the efficiency of creating and organizing zettelkasten notes. The primary focus of the project is to provide a user-friendly and frictionless experience for individuals adopting the zettelkasten method, emphasizing simplicity and productivity in the note-taking workflow. With ZettleVim, users can elevate their zettelkasten practice by combining the power of Vim with a tailored approach to markdown file creation for more effective and organized note-taking.
-
----
-
-## Web Appplication
+`piq` is a front-end UI library designed to enhance standard web components. The project's primary goal is to create a future-proof library that does not require a separate compilation process. It focuses solely on the essentials of front-end UI components: templates, styles, and internal logic. Embracing the UNIX Philosophy of doing one thing well and promoting composability, `piq` emphasizes composable web components. The intention is to provide a future-proof solution that simplifies the development of modular and interoperable user interface elements.
 
 
 
-### Paper
+### frsh <small> [https://github.com/nanasnumber/frsh](https://github.com/nanasnumber/frsh) </small>
 
-### AMIIONBS
+`frsh` is a minimal live reload development server written in Go. The purpose of this project is to leverage Go's concurrency model and create a portable single binary for initiating a straightforward local development server as needed. It employs goroutines to interact with the file system and communicate with the browser via the WebSockets API. It observes file changes, and upon detection, it pings the browser via WebSockets, triggering a live reload.
+
+
+### gidx <small> [https://github.com/nanasnumber/gidx](https://github.com/nanasnumber/gidx) </small>
+
+`gidx` is a command-line interface (CLI) tool designed to automate processes, such as generating a list of indexed URLs from a specified domain (similar to the manual process of `site:example.com` typically performed within a browser). This functionality allows the user to perform tasks within the command line and create a text file containing the indexed URL results. The tool proves valuable for building redirect files like .htaccess and monitoring indexed URLs for security considerations.
+
+
+### tcap <small> [https://github.com/nanasnumber/tcap](https://github.com/nanasnumber/tcap) </small>
+
+`tcap` is a command-line interface (CLI) tool written in Go, designed to convert a supplied string argument into title case. Originally created for use within a Bash script, its primary purpose is to format text for markdown and LaTeX in print and book publishing.
+
+
+### zk <small> [https://github.com/nanasnumber/zk](https://github.com/nanasnumber/zk) </small>
+
+`zk` is my own implementation of zettelkasten note taking cli tool. The `zk` command will open a new markdown file in vim with pre fill title when argument is supplied.
+
+
+### worklog <small> [https://github.com/nanasnumber/worklog](https://github.com/nanasnumber/worklog) </small>
+
+`worklog` is based on the codebase from `zk`, same note taking concept, but focus on date and time centric logging, it comes in handy when working within command line interface.

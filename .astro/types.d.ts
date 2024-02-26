@@ -143,8 +143,6 @@ declare module 'astro:content' {
   data: any
 } & { render(): Render[".md"] };
 };
-"profile": {
-};
 "projects": {
 "index.md": {
 	id: "index.md";

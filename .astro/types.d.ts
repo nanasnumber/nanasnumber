@@ -125,7 +125,16 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"cv": {
+		"biography": {
+"index.md": {
+	id: "index.md";
+  slug: "index";
+  body: string;
+  collection: "biography";
+  data: any
+} & { render(): Render[".md"] };
+};
+"cv": {
 "index.md": {
 	id: "index.md";
   slug: "index";
@@ -135,13 +144,6 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "profile": {
-"index.md": {
-	id: "index.md";
-  slug: "index";
-  body: string;
-  collection: "profile";
-  data: any
-} & { render(): Render[".md"] };
 };
 "projects": {
 "index.md": {

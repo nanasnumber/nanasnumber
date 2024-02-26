@@ -30,7 +30,7 @@ Results-driven Software Developer with a strong foundation in front end software
 - **Server Environment:** Debian Linux, Fedora, Alpine Linux, CentOS
 - **SCM:** Git, SVN
 - **OS:** Linux, macOS, FreeBSD, Windows
-- **API:** Stripe, PayPal, SendGrid, MailChimp, Gumroad, Cloudinary, SoundCloud, Bandcamp, YouTube, Google
+- **API:** Stripe, PayPal, SendGrid, MailChimp, Gumroad, MaxMind, Cloudinary, SoundCloud, Bandcamp, YouTube, Google
 
 ### Relevant Technologies
 <small>
@@ -84,6 +84,7 @@ Go, Node.js, TypeScript, PHP, Python, Lua, Ruby, Java, HTML, CSS, JavaScript, As
 - Developed internal tools and libraries to overcome integration overhead around repeated patterns and common use cases.
 - Planned and migrated client legacy projects hosting, ranging from CMS such as WordPress and Drupal to frameworks such as Laravel, Sinatra, and Ruby on Rails.
 - Responsible for front-end optimization and technical SEO optimization, including Google PageSpeed.
+- Oversaw the implementation of location-specific functionality by leveraging the MaxMind GeoLite API.
 - Maintained hosting upkeep across 70 plus sites, ranging from static sites and e-commerce to web applications.
 - Built and maintained a deployment pipeline, integrating CI/CD (Continuous Integration, Continuous Deployment) within platforms such as Netlify, GitLab, GitHub, and Bitbucket.
 

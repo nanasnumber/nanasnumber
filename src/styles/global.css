@@ -19,10 +19,16 @@ html, body {
 
 body {
   display: grid;
-  grid-template-columns: 300px auto;
+  grid-template-columns: 0 auto;
   height: 100vh;
   overflow: hidden;
+  transition: .3s ease;
 }
+
+body.nav-open {
+  grid-template-columns: 300px auto;
+}
+
 
 a {
   text-decoration: underline;
@@ -137,18 +143,6 @@ main hr {
   width: 100%;
   max-width: 768px;
   margin: 0 auto;
-}
-
-.side-panel {
-  height: 100vh;
-  box-sizing: border-box;
-  background: var(--color-02);
-  color: var(--color-00);
-  padding: var(--space-md);
-
-  a {
-    color: var(--color-00);
-  }
 }
 
 .content {

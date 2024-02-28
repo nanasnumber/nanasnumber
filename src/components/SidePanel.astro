@@ -4,13 +4,23 @@ import github from '../icons/github.svg?raw';
 import mastodon from '../icons/mastodon.svg?raw';
 import x from '../icons/x.svg?raw';
 import email from '../icons/email.svg?raw';
+import open from '../icons/menu.svg?raw';
+import close from '../icons/close.svg?raw';
 
 ---
 
 <div class="side-panel">
+  <div id="menu" class="menu menu--open">
+    <div class="open">
+      <Fragment set:html={open} />
+    </div>
+    <div class="close">
+      <Fragment set:html={close} />
+    </div>
+  </div>
   <a href="/" class="card-person">
     <figure>
-      <img src="/avatar.jpg" alt="">
+      <img src="/avatar.jpg" alt="An image of Shawn Yisiou Wu">
     </figure>
     <h2 class="card-person__title">
       Shawn Yisiou Wu

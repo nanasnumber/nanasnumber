@@ -2,6 +2,45 @@
  * SidePanel.astro
  * */
 
+.side-panel {
+  height: 100vh;
+  box-sizing: border-box;
+  background: var(--color-02);
+  color: var(--color-00);
+  padding: var(--space-md);
+  padding-top: calc(var(--space-xl) * 2);
+
+  a {
+    color: var(--color-00);
+  }
+}
+
+.menu {
+  position: fixed;
+  top: var(--space-md);
+  bottom: var(--space-md);
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}
+
+.menu .open {
+  display: block;
+}
+
+.menu .close {
+  display: none;
+}
+
+.menu.menu--open .open {
+  display: none;
+}
+
+.menu.menu--open .close {
+  display: block;
+}
+
+
 .card-person {
   display: flex;
   flex-direction: column;

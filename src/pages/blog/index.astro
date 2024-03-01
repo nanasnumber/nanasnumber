@@ -1,7 +1,17 @@
 ---
 import Base from '../../layouts/Base.astro';
+
+import { getCollection, getEntry } from 'astro:content';
+
+const allBlogPosts = await getCollection('blog');
+const blog = await getEntry('blog', 'index');
+const { Content } = await blog.render();
 ---
 
 <Base title="Blog">
-
+  <section class="my-xl">
+    {<Content />}
+  </section>
 </Base>
+---
+

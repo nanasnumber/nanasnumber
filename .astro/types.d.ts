@@ -134,6 +134,22 @@ declare module 'astro:content' {
   data: any
 } & { render(): Render[".md"] };
 };
+"blog": {
+"go-concurrency-and-goroutine-blocking/index.md": {
+	id: "go-concurrency-and-goroutine-blocking/index.md";
+  slug: "go-concurrency-and-goroutine-blocking";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
+"index.md": {
+	id: "index.md";
+  slug: "index";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
+};
 "cv": {
 "index.md": {
 	id: "index.md";
@@ -165,9 +181,7 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		"blog": {
-};
-
+		
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;

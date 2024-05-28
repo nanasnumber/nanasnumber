@@ -2,11 +2,10 @@
 title: "C.V."
 ---
 
-Piedmont, QC, Canada
+Greater Montreal, QC, Canada
 
 [shawnyisiouwu@gmail.com](mailto:shawnyisiouwu@gmail.com)
 
-+1 (450) 275-2080
 
 # Shawn Yisiou Wu
 ### Software Developer

@@ -34,6 +34,6 @@ After moved to Canada at the end of 2012, I took time off from working while wai
 
 
 ## Professional Life
-My technical background and the experiences from working within media production industry had lead me to become a professional in software development, more importantly in front end development, and I have been working in the field ever since. Over the years, I've accumulate valuable experiences from working with clients from different domains, different team with different expertise, and I understand that my role extend beyond just a programmer that who work on the projects, I am here to help solving business problem from a techinical perspective, it is essential for what I do as a professional. I am always a tinkerer with hacker mindset, always like to explore the area of unknown, try to understand it and learn from it.
+My technical background and the experiences from working within media production industry had lead me to become a professional in software development, more importantly in front end development, and I have been working in the field ever since. Over the years, I've accumulate valuable experiences from working with clients from different domains, different team with different expertise, and I understand that my role extend beyond just a programmer that who work on the projects, I am here to help solving business problem from a technical perspective, it is essential for what I do as a professional. I am always a tinkerer with hacker mindset, always like to explore the area of unknown, try to understand it and learn from it.
 
 

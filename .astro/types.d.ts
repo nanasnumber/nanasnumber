@@ -149,6 +149,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: any
 } & { render(): Render[".md"] };
+"single-table-design-with-dynamodb/index.md": {
+	id: "single-table-design-with-dynamodb/index.md";
+  slug: "single-table-design-with-dynamodb";
+  body: string;
+  collection: "blog";
+  data: any
+} & { render(): Render[".md"] };
 };
 "cv": {
 "index.md": {

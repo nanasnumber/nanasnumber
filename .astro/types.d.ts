@@ -157,6 +157,8 @@ declare module 'astro:content' {
   data: any
 } & { render(): Render[".md"] };
 };
+"contact": {
+};
 "cv": {
 "index.md": {
 	id: "index.md";
@@ -172,6 +174,15 @@ declare module 'astro:content' {
   slug: "index";
   body: string;
   collection: "home";
+  data: any
+} & { render(): Render[".md"] };
+};
+"meet": {
+"index.md": {
+	id: "index.md";
+  slug: "index";
+  body: string;
+  collection: "meet";
   data: any
 } & { render(): Render[".md"] };
 };
